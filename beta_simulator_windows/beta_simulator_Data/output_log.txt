@@ -21,7 +21,7 @@ Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_
 Loading E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.044 seconds
+- Completed reload, in  0.028 seconds
 Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\System.dll (this message is harmless)
 OnLevelWasLoaded was found on ReturnToMainMenu
@@ -35,25 +35,73 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.947100 ms
+UnloadTime: 0.863600 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 42a8 -> priority: 1 
-  Thread -> id: 2214 -> priority: 1 
+  Thread -> id: 1578 -> priority: 1 
+  Thread -> id: 1088 -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.662900 ms
+UnloadTime: 3.142700 ms
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
-Total: 0.266900 ms (FindLiveObjects: 0.030600 ms CreateObjectMapping: 0.014200 ms MarkObjects: 0.202000 ms  DeleteObjects: 0.013500 ms)
+Total: 0.217700 ms (FindLiveObjects: 0.023700 ms CreateObjectMapping: 0.013800 ms MarkObjects: 0.162800 ms  DeleteObjects: 0.010800 ms)
 
 in menu script 2
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.475400 ms
+UnloadTime: 2.000600 ms
 
-Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1623.
-Total: 0.856800 ms (FindLiveObjects: 0.086300 ms CreateObjectMapping: 0.032300 ms MarkObjects: 0.322200 ms  DeleteObjects: 0.415200 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1342.
+Total: 0.568600 ms (FindLiveObjects: 0.046400 ms CreateObjectMapping: 0.024700 ms MarkObjects: 0.261400 ms  DeleteObjects: 0.235500 ms)
+
+False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: E:\Autonomous-Vehicles\beta_simulator_windows\beta_simulator_Data\Managed\System.Xml.dll (this message is harmless)
+12/7/2025 9:45:01 PM|Fatal|WebSocket.acceptException|System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it.
+                           
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+                             at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.515700 ms
+
+Unloading 139 unused Assets to reduce memory usage. Loaded Objects now: 530.
+Total: 1.841400 ms (FindLiveObjects: 0.026800 ms CreateObjectMapping: 0.018700 ms MarkObjects: 0.401200 ms  DeleteObjects: 1.394100 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.322700 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1628.
+Total: 0.864300 ms (FindLiveObjects: 0.062800 ms CreateObjectMapping: 0.028200 ms MarkObjects: 0.405500 ms  DeleteObjects: 0.367200 ms)
+
+True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.936100 ms
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 527.
+Total: 4.156700 ms (FindLiveObjects: 0.065000 ms CreateObjectMapping: 0.053500 ms MarkObjects: 0.817300 ms  DeleteObjects: 3.219700 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.382800 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1356.
+Total: 1.961900 ms (FindLiveObjects: 0.151900 ms CreateObjectMapping: 0.083800 ms MarkObjects: 1.021300 ms  DeleteObjects: 0.703700 ms)
 
 True
  
